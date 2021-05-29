@@ -5,4 +5,4 @@
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> 	<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<img alt="Gmail" src="matilto:dlsdk25@gmail.com/badge/Gmail-D14836?style=for-the-badge&logo=dlsdk25@gmail.com&logoColor=white" /> <img alt="WhatsApp" src="https://velog.io/@dlsdk2526/badge/Vemio-25D366?style=for-the-badge&logo=velog&logoColor=white"/> 
+
